@@ -2,7 +2,7 @@
 <manifest>
   <project path="device/asus/I01WD" name="ComicoTeam/android_device_asus_I01WD" remote="github" revision="Havoc-Ten" />
   <project path="device/asus/I001D" name="ComicoTeam/android_device_asus_I001D" remote="github" revision="Havoc-Ten" />
-  <project path="kernel/asus/I001" name="ComicoTeam/android_kernel_asus_rog2" remote="github" revision="Lineage-17.1" />
+  <project path="kernel/asus/I001" name="ComicoTeam/android_kernel_asus_rog2" remote="github" revision="lineage-17.1" />
   <project path="kernel/asus/sm8150" name="ComicoTeam/android_kernel_asus_sm8150" remote="github" revision="q" />
   <project path="vendor/asus" name="ComicoTeam/proprietary_vendor_asus" clone-depth="1" remote="github" revision="Lineage-17.1" />
   
