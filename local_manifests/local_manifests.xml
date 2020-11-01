@@ -7,6 +7,4 @@
   <remote name="havoc-private"
           fetch="ssh://git@github.com/Havoc-OS"
           revision="ten" />
-
-  <project path="external/motorola/faceunlock" name="android_external_motorola_faceunlock" remote="havoc-private" />
 </manifest>
