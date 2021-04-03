@@ -10,7 +10,7 @@
   
   <!-- Asus Common -->
   <project path="device/asus/sm8250-common" name="ComicoTeam/android_device_asus_sm8250-common" remote="github" revision="Havoc-Eleven" />
-  <project path="vendor/asus" name="ComicoTeam/proprietary_vendor_asus" clone-depth="1" remote="github" revision="Lineage-17.1" />
+  <project path="vendor/asus" name="ComicoTeam/proprietary_vendor_asus" clone-depth="1" remote="github" revision="Lineage-18.1" />
 
   <!-- Disable it for now
   <remote name="havoc-private"
