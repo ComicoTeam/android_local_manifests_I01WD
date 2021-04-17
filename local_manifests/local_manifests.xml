@@ -6,7 +6,7 @@
   -->
   <!-- Zenfone 7/7Pro -->
   <project path="device/asus/I002D" name="ComicoTeam/android_device_asus_I002D" remote="github" revision="Havoc-Eleven" />
-  <project path="kernel/asus/tequila" name="ComicoTeam/android_kernel_asus_tequila" remote="github" revision="Havoc-Ten" />
+  <project path="kernel/asus/tequila" name="ComicoTeam/android_kernel_asus_tequila" remote="github" revision="Havoc-Eleven" />
   
   <!-- Asus Common -->
   <project path="device/asus/sm8250-common" name="ComicoTeam/android_device_asus_sm8250-common" remote="github" revision="Havoc-Eleven" />
