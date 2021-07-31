@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Zenfone 6 -->
-  <project path="device/asus/I01WD" name="ComicoTeam/android_device_asus_I01WD" remote="github" revision="Havoc-Eleven" />
+  <project path="device/asus/I01WD" name="ComicoX/android_device_asus_I01WD" remote="github" revision="Havoc-Eleven" />
   <project path="kernel/asus/sm8150" name="dmd79/android_kernel_asus_sm8150" remote="github" revision="android-11" /> <!-- Use dmd79's kernel at least for now-->
  
   <!-- Zenfone 7/7Pro -->
-  <project path="device/asus/I002D" name="ComicoTeam/android_device_asus_I002D" remote="github" revision="Havoc-Eleven" />
-  <project path="kernel/asus/tequila" name="ComicoTeam/android_kernel_asus_tequila" remote="github" revision="Havoc-Eleven" />
+  <project path="device/asus/I002D" name="ComicoX/android_device_asus_I002D" remote="github" revision="Havoc-Eleven" />
+  <project path="kernel/asus/tequila" name="ComicoX/android_kernel_asus_tequila" remote="github" revision="Havoc-Eleven" />
   
   <!-- Asus Common -->
-  <project path="device/asus/sm8250-common" name="ComicoTeam/android_device_asus_sm8250-common" remote="github" revision="Havoc-Eleven" />
-  <project path="vendor/asus" name="ComicoTeam/proprietary_vendor_asus" clone-depth="1" remote="github" revision="Lineage-18.1" />
+  <project path="device/asus/sm8250-common" name="ComicoX/android_device_asus_sm8250-common" remote="github" revision="Havoc-Eleven" />
+  <project path="vendor/asus" name="ComicoX/proprietary_vendor_asus" clone-depth="1" remote="github" revision="Lineage-18.1" />
 
   <!-- Disable it for now
   <remote name="havoc-private"
