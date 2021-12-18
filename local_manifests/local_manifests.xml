@@ -8,9 +8,10 @@
   <project path="device/asus/I002D" name="ComicoX/android_device_asus_I002D" remote="github" revision="Havoc-Eleven" />
   <project path="kernel/asus/tequila" name="ComicoX/android_kernel_asus_tequila" remote="github" revision="Havoc-Eleven" />
   
-  <!-- Asus Common -->
-  <project path="vendor/asus" name="ComicoX/proprietary_vendor_asus" clone-depth="1" remote="github" revision="Lineage-18.1" />
-
+  <!-- Asus Vendor -->
+  <project path="vendor/asus" name="ComicoX/android_vendor_asus_I002D" clone-depth="1" remote="github" revision="eleven" />
+  <project path="vendor/asus" name="ComicoX/android_vendor_asus_I01WD" clone-depth="1" remote="github" revision="eleven" />
+  
   <!-- Disable it for now
   <remote name="havoc-private"
           fetch="ssh://git@github.com/Havoc-OS"
